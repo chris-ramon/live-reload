@@ -20,3 +20,5 @@ chrome://extensions
 ```
 ~/.config/google-chrome/Default/Extensions/live-reload
 ```
+
+4. From your application, create the `RELOADME` file when a reload is needed, eg. when a set files changes.
