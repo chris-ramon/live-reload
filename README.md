@@ -22,3 +22,11 @@ chrome://extensions
 ```
 
 4. From your application, create the `RELOADME` file when a reload is needed, eg. when a set files changes.
+
+# Re-Setup
+
+Notice that when suspending Google Chrome the extension needs to be updated which can be done via its details at:
+
+```
+chrome://extensions
+```
